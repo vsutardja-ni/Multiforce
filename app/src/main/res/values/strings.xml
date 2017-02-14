@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">MultiForce Demo</string>
+
+    <string-array name="driver_mode_titles">
+        <item>Idle Mode</item>
+        <item>Active Mode</item>
+        <item>ForceWake Mode</item>
+        <item>Sleep Mode</item>
+        <item>Calibration Mode</item>
+        <item>Scale Mode</item>
+        <item>Test Mode</item>
+    </string-array>
+
+    <string-array name="demoList">
+        <item>Demo</item>
+        <item>Data</item>
+    </string-array>
+
+    <string-array name="demoValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="filterListArray">
+        <item>1.0 (No filter)</item>
+        <item>0.9</item>
+        <item>0.8</item>
+        <item>0.7</item>
+        <item>0.6</item>
+        <item>0.5</item>
+        <item>0.4</item>
+        <item>0.3</item>
+        <item>0.2</item>
+        <item>0.1</item>
+    </string-array>
+
+    <string-array name="filterListValues">
+        <item>1.0</item>
+        <item>0.9</item>
+        <item>0.8</item>
+        <item>0.7</item>
+        <item>0.6</item>
+        <item>0.5</item>
+        <item>0.4</item>
+        <item>0.3</item>
+        <item>0.2</item>
+        <item>0.1</item>
+    </string-array>
+
+
+    <string-array name="dataLogListArray">
+        <item>Data Collection Off</item>
+        <item>Data Collection On</item>
+    </string-array>
+
+    <string-array name="dataLogListValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
